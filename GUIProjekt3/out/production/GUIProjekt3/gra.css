@@ -1,0 +1,11 @@
+.gridPane2{
+    -fx-background-image: url('/tlo.jpg');
+}
+
+
+
+.label{
+    -fx-font-family: 'Times new Roman';
+
+     -fx-font-size: 15;
+}

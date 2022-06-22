@@ -1,0 +1,13 @@
+Test, a Jego wynik to: 20
+Test2, a Jego wynik to: 13
+awdawd, a Jego wynik to: 8
+a, a Jego wynik to: 8
+Adrian, a Jego wynik to: 7
+awdawd, a Jego wynik to: 7
+Test3, a Jego wynik to: 7
+aw, a Jego wynik to: 6
+f, a Jego wynik to: 6
+a, a Jego wynik to: 3
+sw, a Jego wynik to: 2
+awdawd, a Jego wynik to: 2
+g, a Jego wynik to: 1

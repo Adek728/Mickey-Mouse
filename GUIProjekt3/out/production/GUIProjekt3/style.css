@@ -1,0 +1,18 @@
+.button{
+    -fx-font-family: 'Times new Roman';
+     -fx-font-size: 25;
+}
+.start{
+    -fx-background-color: yellow;
+}
+.wyjscie{
+    -fx-background-color: red;
+}
+.ranking{
+    -fx-background-color: green;
+}
+
+.gridPane{
+    -fx-background-image: url('/tloStartowe.jpg');
+}
+
