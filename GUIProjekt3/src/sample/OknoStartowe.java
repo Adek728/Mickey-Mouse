@@ -168,7 +168,7 @@ public class OknoStartowe extends Application {
             });
 
 
-            KeyCombination keyCombinationWin = new KeyCodeCombination(KeyCode.Q,KeyCombination.CONTROL_DOWN, KeyCombination.CONTROL_DOWN);
+            KeyCombination keyCombinationWin = new KeyCodeCombination(KeyCode.Q,KeyCombination.CONTROL_DOWN, KeyCombination.ALT_DOWN);
             gra.setOnKeyPressed(keyEvent -> {
                 if(keyEvent.getCode() == KeyCode.Q) {
                     p1.zmianaGoraLewa();
